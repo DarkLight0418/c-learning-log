@@ -39,6 +39,9 @@
     <ClCompile Include="조건 연산자_4-12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="비트 연산식의 결과_4-13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="형 변환 연산자가 필요한 경우_4-8.c">
