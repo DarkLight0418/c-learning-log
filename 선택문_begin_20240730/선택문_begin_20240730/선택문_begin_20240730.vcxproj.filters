@@ -33,5 +33,8 @@
     <ClCompile Include="중첩 if문에서 중괄호가 반드시 필요한 경우_5-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="switch case문 사용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
