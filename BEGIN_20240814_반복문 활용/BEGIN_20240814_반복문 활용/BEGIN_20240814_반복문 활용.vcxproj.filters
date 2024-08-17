@@ -21,5 +21,8 @@
     <ClCompile Include="별 출력_20240814.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="break문_20240818.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
