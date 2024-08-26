@@ -21,5 +21,8 @@
     <ClCompile Include="2개 함수 제작 프로그램_7-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="매개변수가 없는 함수_7-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
