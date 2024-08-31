@@ -24,5 +24,11 @@
     <ClCompile Include="매개변수가 없는 함수_7-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_음수 입력 대응_7-2A.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반환값이 없는 함수_7-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
