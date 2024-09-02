@@ -33,5 +33,11 @@
     <ClCompile Include="반환값과 매개변수 모두 없는 함수_7-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="재귀호출 함수_7-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="세 번 실행되는 재귀호출 함수_7-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
