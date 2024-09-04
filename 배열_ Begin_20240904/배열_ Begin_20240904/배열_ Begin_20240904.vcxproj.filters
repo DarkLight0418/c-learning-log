@@ -18,28 +18,10 @@
     <ClCompile Include="HonGong.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2개 함수 제작 프로그램_7-1.c">
+    <ClCompile Include="5명의 나이를 저장할 배열을 선언하고 사용하는 방법_8-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="매개변수가 없는 함수_7-2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="_음수 입력 대응_7-2A.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="반환값이 없는 함수_7-3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="반환값과 매개변수 모두 없는 함수_7-4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="재귀호출 함수_7-5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="세 번 실행되는 재귀호출 함수_7-6.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="세 번 실행되는 재귀호출 함수 2_7-7.c">
+    <ClCompile Include="배열과 반복문을 사용한 성적 처리 프로그램_8-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
