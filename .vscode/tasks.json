@@ -2,14 +2,15 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "build with g++",
+      "label": "build with gcc (multiple files)",
       "type": "shell",
       "command": "C:/TDM-GCC-64/bin/gcc.exe",
       "args": [
         "-g",
-        "${file}",
+        "${fileDirname}/Test_DoublyLinkedList.c",
+        "${fileDirname}/DoublyLinkedList.c",
         "-o",
-        "${fileDirname}/${fileBasenameNoExtension}.exe"
+        "${fileDirname}/output.exe"
       ],
       "group": {
         "kind": "build",
