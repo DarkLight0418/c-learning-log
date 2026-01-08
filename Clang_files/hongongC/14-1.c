@@ -2,7 +2,7 @@
 
 int main()
 {
-  int score[3][4];
+  int score[3][4]; // score[행][열] ↓→
   int total;
   double avg;
   int i, j;
@@ -15,7 +15,7 @@ int main()
       scanf("%d", &score[i][j]);
     }
   }
-  for (i = 0; i < 3; i++)
+  for (i = 0; i < 3; i++) // i j 인덱스 주의(행, 열)
   {
     total = 0;
 
