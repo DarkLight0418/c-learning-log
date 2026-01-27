@@ -7,6 +7,7 @@ int main()
   int count;
 
   count = sizeof(animal) / sizeof(animal[0]); // 행의 수 계산
+
   for (i = 0; i < count; i++)
   {
     scanf("%s", animal[i]);
