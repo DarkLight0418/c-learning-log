@@ -6,9 +6,11 @@
       "type": "shell",
       "command": "C:/TDM-GCC-64/bin/gcc.exe",
       "args": [
-        "-g",
-        "${fileDirname}/Test_DoublyLinkedList.c",
-        "${fileDirname}/DoublyLinkedList.c",
+        "-Wall",
+        "-Wextra",
+        "-g3",
+        "-finput-charset=UTF-8",
+        "-fexec-charset=UTF-8",
         "-o",
         "${fileDirname}/output.exe"
       ],
