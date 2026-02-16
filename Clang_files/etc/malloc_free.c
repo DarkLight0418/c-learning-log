@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  int n;
+  scanf("%d", &n);
+
+  int *arr = (int *)malloc(sizeof(int) * n);
+
+  if (arr == NULL)
+  {
+    printf("메모리 할당 실패\n");
+    return 1;
+  }
+
+  for (int i = 0; i < n; i++)
+  {
+    arr[i] = i * 10;
+  }
+
+  for (int i = 0; i < n; i++)
+  {
+    printf("%d", arr[i]);
+  }
+
+  free(arr);
+  arr = NULL;
+
+  return 0;
+}
